@@ -1,5 +1,6 @@
 # ImitationCloudStorage
 编译只支持普通编译<br >
+百度云同步更新，地址：https://pan.baidu.com/s/1-MMqUxtpQJYm8F39wpu15g<br >
 使用的支持库：<br >1.Exui 20180526版<br >
              2.HP-Socket 5.31#20180421版，https://github.com/ldcsaa<br >
              3.TCP互通模块-CN v0.06γ Build 140512<br >
